@@ -46,7 +46,6 @@
     "@tarojs/runtime": "3.3.9",
     "@tarojs/taro": "3.3.9",
     "@tarojs/taro-rn": "3.3.9",
-    "@tarojs/plugin-framework-react": "3.3.9",
     "taro-hooks": "latest",
     "preact": "^10.5.15",
     "nerv-redux": "^1.5.7",
