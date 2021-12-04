@@ -3,6 +3,7 @@ import './app.less'
 import {Provider} from 'react-redux'
 import configStore from './store'
 import SDK from 'sr-sdk-h5'
+import React from 'react'
 
 /**
  * 有数埋点SDK 默认配置

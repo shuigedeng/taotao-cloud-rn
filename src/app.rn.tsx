@@ -1,7 +1,7 @@
 import {Component} from 'react'
-import './app.less'
 import {Provider} from 'react-redux'
 import configStore from './store'
+import React from 'react'
 
 const store = configStore()
 

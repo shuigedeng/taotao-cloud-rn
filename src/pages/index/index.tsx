@@ -1,3 +1,4 @@
+import React from "react";
 import { useCallback } from "react";
 import { View, Text, Button, Image } from "@tarojs/components";
 import { useEnv, useNavigationBar, useModal, useToast } from "taro-hooks";

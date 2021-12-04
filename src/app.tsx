@@ -3,6 +3,10 @@ import './app.less'
 import sr from 'sr-sdk-wxapp'
 import { Provider } from 'react-redux'
 import configStore from './store'
+import React from 'react'
+
+// import 'taro-ui/dist/style/index.scss'
+
 /**
  * 有数埋点SDK 默认配置
  * 使用方法请参考文档 https://mp.zhls.qq.com/youshu-docs/develop/sdk/Taro.html
