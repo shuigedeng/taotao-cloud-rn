@@ -11,10 +11,7 @@ const config = {
   sourceRoot: 'src',
   outputRoot: 'dist',
   plugins: [
-    ['taro-plugin-tailwind'],
-    ["@tarojs/plugin-mock", {
-      host: "0.0.0.0"
-    }],
+    ['taro-plugin-tailwind']
   ],
   defineConstants: {
     IS_H5: process.env.TARO_ENV === "h5",
